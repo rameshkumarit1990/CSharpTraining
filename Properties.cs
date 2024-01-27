@@ -41,7 +41,7 @@ namespace FirstConsoleApp
         {
             Student student = new Student();
             student.Setid(2000);
-            student.Name = "sravani";
+            student.Name = "Sravani Lakkoju";
             student.age = 18;
             student.GetStudent();
             Console.WriteLine(student.Getid());
