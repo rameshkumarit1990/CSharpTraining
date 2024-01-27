@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PINKY\\C#\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectUniqueName": "E:\\PINKY\\C#\\Practice\\FirstConsoleApp.csproj",
       "projectName": "FirstConsoleApp",
-      "projectPath": "E:\\PINKY\\C#\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectPath": "E:\\PINKY\\C#\\Practice\\FirstConsoleApp.csproj",
       "packagesPath": "C:\\Users\\madhu\\.nuget\\packages\\",
-      "outputPath": "E:\\PINKY\\C#\\FirstConsoleApp\\obj\\",
+      "outputPath": "E:\\PINKY\\C#\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\madhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
