@@ -17,7 +17,7 @@ namespace FirstConsoleApp
         {
             Console.WriteLine("MainProgram");
 
-            Properties.RunProgram();
+            Abstraction.RunProgram();
         }
     }
 }
