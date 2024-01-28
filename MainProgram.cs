@@ -8,16 +8,12 @@ namespace FirstConsoleApp
 {
     class MainProgram
     {
-        public MainProgram()
-        {
-            Console.WriteLine("MainProgram Constructor");
-        }
-
+        
         static void Main()
         {
             Console.WriteLine("MainProgram");
 
-            Abstraction.RunProgram();
+            ExceptionAbuseSolution.RunProgram();
         }
     }
 }
