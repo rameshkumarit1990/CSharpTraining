@@ -12,7 +12,7 @@ namespace FirstConsoleApp
         {
             Console.WriteLine("MainProgram");
 
-            Generics.RunProgram();
+            StringsClass.RunProgram();
         }
     }
 }
