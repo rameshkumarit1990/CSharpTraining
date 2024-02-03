@@ -16,7 +16,7 @@ namespace FirstConsoleApp
     {
         //using generics here makes the method independent of data type..
         //public static bool AreEqual(object value1, object value2) using generics to this
-        public static bool AreEqual<T>(T value1, T value2)
+        public static bool AreEqual<Type>(Type value1, Type value2)
         {
             //return value1 == value2;
             return value1.Equals(value2);
