@@ -8,11 +8,15 @@ namespace FirstConsoleApp
 {
     class MainProgram
     {
+        //Main method of the project ..
+        //entry point for the whole project
+        //debugging starts here
         public static void Main()
         {
+            //Writing to Console..using console class
             Console.WriteLine("MainProgram");
 
-            ConvertToStringAndToString.RunProgram();
+            SortList.RunProgram();
         }
     }
 }

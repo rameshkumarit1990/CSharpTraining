@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FirstConsoleApp
 {
-    internal class PartialClasses
+    class Introduction
     {
+
     }
 }
