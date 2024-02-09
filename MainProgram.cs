@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstConsoleApp.PracticeExercises;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace FirstConsoleApp
             //Writing to Console..using console class
             Console.WriteLine("MainProgram");
 
-            SortList.RunProgram();
+            CO_1EvenOdd.RunProgram();
         }
     }
 }
