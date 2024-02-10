@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstConsoleApp.PracticeExercises;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,12 +9,15 @@ namespace FirstConsoleApp
 {
     class MainProgram
     {
-        
-        static void Main()
+        //Main method of the project ..
+        //entry point for the whole project
+        //debugging starts here
+        public static void Main()
         {
+            //Writing to Console..using console class
             Console.WriteLine("MainProgram");
 
-            ExceptionAbuseSolution.RunProgram();
+            CO_1EvenOdd.RunProgram();
         }
     }
 }
