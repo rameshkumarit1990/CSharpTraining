@@ -17,7 +17,7 @@ namespace FirstConsoleApp
             //Writing to Console..using console class
             Console.WriteLine("MainProgram");
 
-            CO_1EvenOdd.RunProgram();
+            _83GenericStack.RunProgram();
         }
     }
 }
